@@ -1,4 +1,4 @@
-Beetlebuggy
+Beetlebhuggy
 ===========
 
 My hello world repository
